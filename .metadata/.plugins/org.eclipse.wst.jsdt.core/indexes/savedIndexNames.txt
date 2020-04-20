@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/tcowern/Desktop/TTSQAEClass/Projects/TechTalentTwitter/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1046153731.index
+3763659329.index
+2686588982.index
+1891279976.index
+1679165185.index
